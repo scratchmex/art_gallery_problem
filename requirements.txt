@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # main.py: 1
-numpy == 1.16.2
+numpy == 1.22.0
 
 # gui.py: 1
 pygame == 1.9.6
